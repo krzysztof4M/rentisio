@@ -8,8 +8,15 @@
 # testing
 /coverage
 
-# production
-/build
+/scripts
+/src
+/config
+/dist
+/public
+/yarn.lock
+/package.json
+
+
 
 # misc
 .DS_Store
