@@ -15,8 +15,12 @@
 /public
 /yarn.lock
 /package.json
+/build
+!build/static/js/bundle.js
 
 
+yarn.lock
+package.json
 
 # misc
 .DS_Store
